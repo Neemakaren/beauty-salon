@@ -1,9 +1,7 @@
 import {
-  Navbar,
   Hero,
   Banner,
   Prices,
-  Footer,
   Testimonials,
   Video,
   Brands,
@@ -15,7 +13,6 @@ import {
 const Home = () => {
   return (
     <>
-      {/* <Navbar /> */}
       <Hero />
       <Banner />
       <Prices />
@@ -24,7 +21,6 @@ const Home = () => {
       <Brands />
       <Shop />
       <Socials />
-      {/* <Footer />  */}
     </>
   );
 };

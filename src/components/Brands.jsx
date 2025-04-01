@@ -15,7 +15,7 @@ const Brands = () => {
         </div>
         <div className="items-center justify-center flex flex-col">
           <img src={icon1} alt="" />
-          <h4 className="text-[#6B0606]  text-[1.2em] md:text-2xl font-semibold">
+          <h4 className="text-[#6B0606] text-[1.2em] md:text-2xl font-semibold">
             Premium brands
           </h4>
           <p className="text-center">

@@ -16,7 +16,7 @@ const Shop = () => {
           <img src={shop} alt="" className="" />
           <div className="flex flex-col items-center justify-center">
             <p className="font-semibold text-[1.2em]">Face toner</p>
-            <span className="opacity-50 text-[1.1em]">$20 / 50ml</span>
+            {/* <span className="opacity-50 text-[1.1em]">$20 / 50ml</span> */}
             <div className="flex gap-3 my-2">
               <button className="bg-[#6B0606] text-white px-2">50ml</button>
               <button className="bg-[#6B0606] text-white px-2">70ml</button>

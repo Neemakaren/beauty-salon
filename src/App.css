@@ -41,3 +41,7 @@
     border: 1px solid var(--color-golden);
     cursor: pointer;
 }
+
+.here {
+  background-image: url('./assets/images/nav1.png');
+}

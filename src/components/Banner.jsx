@@ -27,7 +27,7 @@ const Banner = () => {
         <div className="relative flex py-6 border rounded-sm">
           <img src={banner8} alt="" className="relative" />
           <div className="absolute bottom-2 left-3 flex items-center gap-4">
-            <img src={banner1} alt="" className="border" />
+            <img src={banner1} alt="" className="border shadow-lg" />
             <span className="text-white font-bold text-[1.2em] sm:text-[1.5em] lg:text-2xl">
               make up
             </span>
@@ -36,7 +36,7 @@ const Banner = () => {
         <div className="relative flex py-6 border rounded-sm">
           <img src={banner8} alt="" className="relative" />
           <div className="absolute bottom-2 left-3 flex items-center gap-4">
-            <img src={banner2} alt="" className="border" />
+            <img src={banner2} alt="" className="border shadow-lg" />
             <span className="text-white font-bold text-[1.2em] sm:text-[1.5em] lg:text-2xl">
               hair styling
             </span>
@@ -45,7 +45,7 @@ const Banner = () => {
         <div className="relative flex py-6 border rounded-sm">
           <img src={banner8} alt="" className="relative" />
           <div className="absolute bottom-2 left-3 flex items-center gap-4">
-            <img src={banner3} alt="" className="border" />
+            <img src={banner3} alt="" className="border shadow-lg" />
             <span className="text-white font-bold text-[1.2em] sm:text-[1.5em] lg:text-2xl">
               nail care
             </span>

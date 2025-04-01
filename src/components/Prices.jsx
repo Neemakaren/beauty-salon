@@ -16,7 +16,7 @@ const Prices = () => {
           Velit in dui dictum arcu felis tempor in feugiat in mauris...
         </p>
         <div>
-          <div className=" flex flex-col gap-6 text-[1em] lg:text-[1.3em] font-semibold">
+          <div className=" flex flex-col gap-6 text-[1em] lg:text-[1.2em] font-semibold">
             <p className="">
               Nail Care
               <span className="opacity-30">
@@ -56,7 +56,7 @@ const Prices = () => {
         </div>
         <Link
           to="/services"
-          className="mt-2 underline font-semibold text-[#6B0606]"
+          className="mt-2 underline font-semibold text-[#6B0606] mb-10 md:mb-1"
         >
           View All
         </Link>

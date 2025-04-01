@@ -8,6 +8,7 @@ import Video from "./Video";
 import Brands from "./Brands";
 import Shop from "./Shop";
 import Socials from "./Socials";
+import Card from "./Card";
 
 export {
   Navbar,
@@ -19,5 +20,6 @@ export {
   Video,
   Brands,
   Shop,
-  Socials
+  Socials,
+  Card
 };

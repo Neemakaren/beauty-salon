@@ -20,12 +20,12 @@ const Navbar = () => {
 
         <div className="flex items-center justify-center gap-6 text-[16px]">
           <ul className="flex gap-4">
-            <Link to='/'>Home</Link>
-            <Link to='services'>Services</Link>
+            <Link to="/">Home</Link>
+            <Link to="services">Services</Link>
           </ul>
           <img src={nav3} alt="" className="inset-0 px-2" />
           <ul className="flex gap-4">
-            <li>About Us</li>
+            <Link to="/beautyshop">Shop</Link>
             <li>Contact Us</li>
           </ul>
         </div>
